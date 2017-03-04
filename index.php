@@ -44,6 +44,7 @@
 
     <!-- *** TOPBAR ***
  _________________________________________________________ -->
+ <!--
     <div id="top">
         <div class="container">
             <div class="col-md-6 offer" data-animate="fadeInDown">
@@ -92,7 +93,7 @@
         </div>
 
     </div>
-
+-->
     <!-- *** TOP BAR END *** -->
 
     <!-- *** NAVBAR ***
@@ -405,17 +406,17 @@
             <div class="container">
                 <div class="col-md-12">
                     <div id="main-slider">
-                        <div class="item">
+                        <!--<div class="item">
                             <img src="img/main-slider1.jpg" alt="" class="img-responsive">
+                        </div>-->
+                        <div class="item">
+                            <img class="img-responsive" src="http://pilardesign.s3.amazonaws.com/carrusel.png" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="img/main-slider2.jpg" alt="">
+                            <img class="img-responsive" src="http://pilardesign.s3.amazonaws.com/carrusel2.png" alt="">
                         </div>
                         <div class="item">
-                            <img class="img-responsive" src="img/main-slider3.jpg" alt="">
-                        </div>
-                        <div class="item">
-                            <img class="img-responsive" src="img/main-slider4.jpg" alt="">
+                            <img class="img-responsive" src="http://pilardesign.s3.amazonaws.com/carrusel3.png" alt="">
                         </div>
                     </div>
                     <!-- /#main-slider -->
@@ -480,7 +481,7 @@
                 <div class="box">
                     <div class="container">
                         <div class="col-md-12">
-                            <h2>Hot this week</h2>
+                            <h2>Lo m&aacute;s visto</h2>
                         </div>
                     </div>
                 </div>
