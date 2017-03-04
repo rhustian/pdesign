@@ -450,13 +450,13 @@
                             </div>
                         </div>-->
                         <div class="col-sm-6">
-                            <div class="box same-height clickable" style="height: auto !important">
+                            <div class="box same-height clickable box-features" style="height: 1px !important">
                                 <img src="http://pilardesign.s3.amazonaws.com/envio_prueba.png" alt="Envios Pais" class="img-home-features">
                             </div>
                         </div>
 
                         <div class="col-sm-6">
-                            <div class="box same-height clickable" style="height: auto !important">
+                            <div class="box same-height clickable box-features" style="height: 1px !important">
                                 <!--<div class="icon"><i class="fa fa-thumbs-up"></i>
                                 </div>
 
