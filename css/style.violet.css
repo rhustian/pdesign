@@ -1671,5 +1671,6 @@ address {
 }
 .pd-logo {
   position: relative;
-  top: 5px;
+  top: -3px;
+  width: 150px;
 }
