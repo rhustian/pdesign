@@ -429,18 +429,18 @@
 
                 <div class="container">
                     <div class="same-height-row">
-                        <div class="col-sm-4">
+                        <!--<div class="col-sm-4">
                             <div class="box same-height clickable" style="height: auto !important">
                                 <!--<div class="icon"><i class="fa fa-heart"></i>
                                 </div>
 
                                 <h3><a href="#">We love our customers</a></h3>
-                                <p>We are known to provide best possible service ever</p>-->
+                                <p>We are known to provide best possible service ever</p>
                                 <img src="http://pilardesign.s3.amazonaws.com/garantia.png" alt="Garantia" class="img-home-features">
                             </div>
                         </div>
 
-                        <!--<div class="col-sm-4">
+                        <div class="col-sm-4">
                             <div class="box same-height clickable">
                                 <div class="icon"><i class="fa fa-tags"></i>
                                 </div>
@@ -449,20 +449,20 @@
                                 <p>You can check that the height of the boxes adjust when longer text like this one is used in one of them.</p>
                             </div>
                         </div>-->
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="box same-height clickable" style="height: auto !important">
-                                <img src="http://pilardesign.s3.amazonaws.com/envios_pais.png" alt="Envios Pais" class="img-home-features">
+                                <img src="http://pilardesign.s3.amazonaws.com/envio_prueba.png" alt="Envios Pais" class="img-home-features">
                             </div>
                         </div>
 
-                        <div class="col-sm-4">
+                        <div class="col-sm-6">
                             <div class="box same-height clickable" style="height: auto !important">
                                 <!--<div class="icon"><i class="fa fa-thumbs-up"></i>
                                 </div>
 
                                 <h3><a href="#">100% satisfaction guaranteed</a></h3>
                                 <p>Free returns on everything for 3 months.</p>-->
-                                <img src="http://pilardesign.s3.amazonaws.com/pague_seguro.png" alt="Pago Seguro" class="img-home-features">
+                                <img src="http://pilardesign.s3.amazonaws.com/mercado-pago.png" alt="Pago Seguro" class="img-home-features">
                             </div>
                         </div>
                     </div>
